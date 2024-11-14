@@ -4,7 +4,8 @@ x-stoplight:
 info:
   title: api-git
   version: '1.0'
-  summary: ''
+  summary: dasasdasd
+  description: asddasdsadas
 servers:
   - url: 'http://localhost:3000'
 paths:
