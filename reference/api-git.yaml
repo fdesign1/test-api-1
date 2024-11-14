@@ -5,6 +5,7 @@ info:
   title: api-git
   version: '1.0'
   summary: ''
+  description: dffdsfdsdf
 servers:
   - url: 'http://localhost:3000'
 paths:
